@@ -1,0 +1,54 @@
+/* Acompanhamento.module.css */
+.acompanhamento {
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    background-color: aliceblue;
+    width: 400px; /* Ajuste a largura conforme necessário */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    
+  }
+
+  .acompanhamento p{
+    
+    text-align: left;
+    
+  }
+ .imagens{
+    padding-block: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+ 
+ }
+ .imagens h2{
+ text-align: center; 
+ justify-items: center;
+}
+  .acompanhamento img{
+    height: 4rem;
+    width: 4rem;
+  }
+
+
+  .icon {
+    /* Estilos básicos para todos os ícones */
+    height: 4rem;
+    width: 4rem;
+  }
+  
+  .icon--active {
+    /* Estilo para o ícone da etapa atual */
+    color: black;
+    filter: none; /* Remove qualquer filtro aplicado */
+  }
+  
+  .icon--inactive {
+    /* Estilo para os ícones das etapas não ativas */
+    color: lightgray;
+    filter: grayscale(100%); /* Torna o ícone em escala de cinza */
+  }

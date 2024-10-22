@@ -1,0 +1,21 @@
+.footer{
+    background-color:#2d2b2b;
+    border-top: 2px solid #edd2d0;
+    position:absolute;
+    /*bottom: 0;*/
+    width: 100%;
+    display: flex;
+    padding-block: 1rem; /*1 rem é 16px*/
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #dee1e9;
+    box-shadow: 1px 1px 1rem rgb(134, 127, 118);
+    
+}
+
+.footer h2{
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding-inline: 0.5rem;
+ }

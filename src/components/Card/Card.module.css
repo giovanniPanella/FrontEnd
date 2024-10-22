@@ -1,0 +1,25 @@
+
+.card {
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-block: 1rem;
+    background-color: aliceblue;
+    width: 300px;
+    height: 380px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1rem rgb(134, 127, 118);
+
+    
+}
+
+.card img{
+    
+    width: 100%; 
+    text-decoration: none;
+   
+}
+.card h2,p{
+    color: black;
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "titulo":"Azul",
+        "cover":"/images/pecaAzul.png",
+        "cor": "Azul",
+        "composicao": "Polimero",
+        "condicao": "Novo",
+        "category": "Bases"
+
+    },
+    {
+        "id":"4",
+        "titulo":"Verde",
+        "cover":"/images/pecaVerde.png",
+        "cor": "Verde",
+        "composicao": "Polimero",
+        "condicao": "Novo",
+        "category": "Bases"
+
+
+
+    },
+    {
+        "id":"7",
+        "titulo":"Metalica",
+        "cover":"/images/pecaMetalica.png",
+        "cor": "Metalica",
+        "composicao": "Aço Carbono",
+        "condicao": "Novo",
+        "category": "Bases"
+
+
+
+    }
+
+]

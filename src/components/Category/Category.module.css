@@ -1,0 +1,15 @@
+.category{
+    display: flex;
+    flex-direction: column;
+    padding-block: 5px;
+    
+    
+}
+
+.category div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 5px;
+}
